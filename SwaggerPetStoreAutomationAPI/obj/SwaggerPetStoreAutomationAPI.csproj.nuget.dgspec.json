@@ -1,0 +1,135 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Merdur\\source\\repos\\SwaggerPetStoreAutomation\\SwaggerPetStoreAutomationAPI\\SwaggerPetStoreAutomationAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Merdur\\source\\repos\\SwaggerPetStoreAutomation\\SwaggerPetStoreAutomationAPI\\SwaggerPetStoreAutomationAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Merdur\\source\\repos\\SwaggerPetStoreAutomation\\SwaggerPetStoreAutomationAPI\\SwaggerPetStoreAutomationAPI.csproj",
+        "projectName": "SwaggerPetStoreAutomationAPI",
+        "projectPath": "C:\\Users\\Merdur\\source\\repos\\SwaggerPetStoreAutomation\\SwaggerPetStoreAutomationAPI\\SwaggerPetStoreAutomationAPI.csproj",
+        "packagesPath": "C:\\Users\\Merdur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Merdur\\source\\repos\\SwaggerPetStoreAutomation\\SwaggerPetStoreAutomationAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Merdur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentAssertions.AssertMultiple": {
+              "target": "Package",
+              "version": "[0.0.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "NunitRunnerTask": {
+              "target": "Package",
+              "version": "[2.0.11, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[110.2.0, )"
+            },
+            "RestSharp.IdentityModel.Extensions": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "RestSharp.Serializers.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[110.2.0, )"
+            },
+            "RestSharp.Serilog.Auto.Extented": {
+              "target": "Package",
+              "version": "[2.0.2.1009, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Serilog.Sinks.Observable": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "System.Reactive": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Reactive.Linq": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

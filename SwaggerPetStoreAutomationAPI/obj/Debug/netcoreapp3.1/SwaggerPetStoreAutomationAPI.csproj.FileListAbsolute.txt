@@ -1,0 +1,44 @@
+C:\Users\Genel Çalışma\Source\Repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\bin\Debug\netcoreapp3.1\JsonModels\OrderJsonModel.json
+C:\Users\Genel Çalışma\Source\Repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\bin\Debug\netcoreapp3.1\JsonModels\PetsJsonModel.json
+C:\Users\Genel Çalışma\Source\Repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\bin\Debug\netcoreapp3.1\JsonModels\UserJsonModel.json
+C:\Users\Genel Çalışma\Source\Repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\bin\Debug\netcoreapp3.1\Resources\UploadPhoto.png
+C:\Users\Genel Çalışma\Source\Repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\bin\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.deps.json
+C:\Users\Genel Çalışma\Source\Repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\bin\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.runtimeconfig.json
+C:\Users\Genel Çalışma\Source\Repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\bin\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.runtimeconfig.dev.json
+C:\Users\Genel Çalışma\Source\Repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\bin\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.dll
+C:\Users\Genel Çalışma\Source\Repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\bin\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.pdb
+C:\Users\Genel Çalışma\Source\Repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\Genel Çalışma\Source\Repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\Genel Çalışma\Source\Repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\obj\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.csproj.AssemblyReference.cache
+C:\Users\Genel Çalışma\Source\Repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\obj\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genel Çalışma\Source\Repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\obj\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.AssemblyInfoInputs.cache
+C:\Users\Genel Çalışma\Source\Repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\obj\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.AssemblyInfo.cs
+C:\Users\Genel Çalışma\Source\Repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\obj\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.csproj.CoreCompileInputs.cache
+C:\Users\Genel Çalışma\Source\Repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\obj\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.csproj.CopyComplete
+C:\Users\Genel Çalışma\Source\Repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\obj\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.dll
+C:\Users\Genel Çalışma\Source\Repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\obj\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.pdb
+C:\Users\Genel Çalışma\Source\Repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\obj\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.genruntimeconfig.cache
+C:\Users\Merdur\source\repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\bin\Debug\netcoreapp3.1\JsonModels\OrderJsonModel.json
+C:\Users\Merdur\source\repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\bin\Debug\netcoreapp3.1\JsonModels\PetsJsonModel.json
+C:\Users\Merdur\source\repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\bin\Debug\netcoreapp3.1\JsonModels\UserJsonModel.json
+C:\Users\Merdur\source\repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\bin\Debug\netcoreapp3.1\Resources\UploadPhoto.png
+C:\Users\Merdur\source\repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\bin\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.deps.json
+C:\Users\Merdur\source\repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\bin\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.runtimeconfig.json
+C:\Users\Merdur\source\repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\bin\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.runtimeconfig.dev.json
+C:\Users\Merdur\source\repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\bin\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.dll
+C:\Users\Merdur\source\repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\bin\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.pdb
+C:\Users\Merdur\source\repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\Merdur\source\repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\Merdur\source\repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\obj\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.csproj.AssemblyReference.cache
+C:\Users\Merdur\source\repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\obj\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merdur\source\repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\obj\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.AssemblyInfoInputs.cache
+C:\Users\Merdur\source\repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\obj\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.AssemblyInfo.cs
+C:\Users\Merdur\source\repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\obj\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.csproj.CoreCompileInputs.cache
+C:\Users\Merdur\source\repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\obj\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.csproj.CopyComplete
+C:\Users\Merdur\source\repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\obj\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.dll
+C:\Users\Merdur\source\repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\obj\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.pdb
+C:\Users\Merdur\source\repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\obj\Debug\netcoreapp3.1\SwaggerPetStoreAutomationAPI.genruntimeconfig.cache
+C:\Users\Merdur\source\repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Merdur\source\repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\bin\Debug\netcoreapp3.1\xunit.runner.reporters.net452.dll
+C:\Users\Merdur\source\repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\bin\Debug\netcoreapp3.1\xunit.runner.utility.net452.dll
+C:\Users\Merdur\source\repos\SwaggerPetStoreAutomation\SwaggerPetStoreAutomationAPI\bin\Debug\netcoreapp3.1\xunit.abstractions.dll

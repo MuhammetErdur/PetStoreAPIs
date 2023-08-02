@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Actions\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="Entities\" />
+    <Folder Include="Handlers\" />
+    <Folder Include="JsonModels\" />
+    <Folder Include="Resources\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentAssertions.AssertMultiple" Version="0.0.4" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="NUnit" Version="3.13.3" />
+    <PackageReference Include="NUnit3TestAdapter" Version="4.5.0" />
+    <PackageReference Include="NunitRunnerTask" Version="2.0.11" />
+    <PackageReference Include="RestSharp" Version="110.2.0" />
+    <PackageReference Include="RestSharp.IdentityModel.Extensions" Version="2.0.1" />
+    <PackageReference Include="RestSharp.Serializers.NewtonsoftJson" Version="110.2.0" />
+    <PackageReference Include="RestSharp.Serilog.Auto.Extented" Version="2.0.2.1009" />
+    <PackageReference Include="Serilog" Version="3.0.1" />
+    <PackageReference Include="System.Reactive.Linq" Version="6.0.0" />
+    <PackageReference Include="System.Reactive" Version="6.0.0" />
+    <PackageReference Include="Serilog.Sinks.Console" Version="4.1.0" />
+    <PackageReference Include="Serilog.Sinks.Observable" Version="2.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="JsonModels\OrderJsonModel.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="JsonModels\PetsJsonModel.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="JsonModels\UserJsonModel.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
